@@ -21,14 +21,23 @@ The project is part of my contribution to the open-source ecosystem, including t
 ## 🧩 Repository Structure
 
 amd-chip-research/
+
 ├── gpu/
+
 │ └── carrizo/, vega10/, renoir/
+
 ├── cpu/
+
 │ └── zen1/, zen3/
+
 ├── firmware/
+
 │ └── psp/, smu/, vcn/
+
 ├── bios-dumps/
+
 ├── mesa-contrib/
+
 ├── LICENSE (MIT)
 
 
