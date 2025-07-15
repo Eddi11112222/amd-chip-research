@@ -1,0 +1,1 @@
+This repository documents in-depth research on AMD architectures, covering GPUs, APUs, and CPUs. The goal is to provide reverse-engineered insights and public knowledge useful for open-source projects such as Mesa 3D, Coreboot, and Linux kernel development.
