@@ -8,14 +8,15 @@ The project is part of my contribution to the open-source ecosystem, including t
 
 ### 🖥️ GPU / APU Architectures
 
-- **Carrizo** (e.g., FX-8800P APU): GPU internals and register maps  
-- **Vega10** (e.g., RX Vega 56/64): Command streams, GCN5 shader core  
-- **Renoir** (Ryzen 4000U APU): Unified memory access, iGPU block structure  
+- **Carrizo** (e.g., FX-8800P APU): GPU internals and register maps, driver development  
+- **Vega10** (e.g., RX Vega 56/64): Command streams, GCN5 shader core, driver development  
+- **Renoir** (Ryzen 4000U APU): Unified memory access, iGPU block structure, driver development  
 
 ### 🧠 CPU Architectures
 
-- **Zen 1**: Microarchitecture layout, MSRs, power management  
-- **Zen 3**: CCX analysis, SMT, System Management Interface (SMI)  
+- **Zen 1**: Microarchitecture layout, MSRs, power management, driver development  
+- **Zen 3**: CCX analysis, SMT, System Management Interface (SMI), driver development  
+- **Ryzen 9 9950X/9950X36**: Driver development, analysis
 - Firmware analysis (PSP, SMU)
 
 ## 🧩 Repository Structure
@@ -58,4 +59,7 @@ Open for collaboration and contributions.
 ---
 
 > This repository is intended for educational and research purposes only. No proprietary code is included.
+> This projekt is mostly intendet for research and behavior of the Mesa 3d library.
+> All drivers for graphics can be found in the Mesa 3d library.
+
 
