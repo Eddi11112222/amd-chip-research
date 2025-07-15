@@ -52,6 +52,7 @@ amd-chip-research/
 Erik Thurmann  
 GitHub: [eddi11112222](https://github.com/eddi11112222)  
 Discord: `Zero`  
+E-Mail: zerodayzone1111@gmail.com
 Open for collaboration and contributions.
 
 ---
