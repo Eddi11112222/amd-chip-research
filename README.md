@@ -1,3 +1,12 @@
+    _    __  __   ____  
+   / \  |  \/  | |  _ \ 
+  / _ \ | |\/| | | | | |
+ / ___ \| |  | | | |_| |
+/_/   \_\_|  |_| |____/ 
+
+
+
+
 # AMD Chip Research
 
 This repository contains research, reverse engineering, and documentation on a wide range of AMD hardware — including GPUs, APUs, and CPUs — for the purpose of enabling and improving open-source support.
